@@ -31,9 +31,9 @@ Pete LePage, a developer advocate at Google, and Cameron Pittman, a front end co
 They are teaching this course to help us create websites that look and feel great across every device. We'll learn basic guidelines that make sites look great across a wide range of devices in use today.
 
 ### 1.1 Sites on Mobile
-What does a site like Google News ([https://news.google.com/](https://news.google.com/)) do meet this challenge? They employ two different strategies; a fully responsive version for phones and tablets, and a second version for desktops that starts at a medium size.
+What does a site like Google News ([https://news.google.com/](https://news.google.com/)) do to meet this challenge? They employ two different strategies; a fully responsive version for phones and tablets, and a second version for desktops that starts at a medium size.
 
-This works well for them but adds an extra layer of complexity and work to keep things up to date.
+This works well for them but adds an extra layer of complexity and work to keep things up-to-date.
 
 A second example is a site like Skinny Ties ([https://skinnyties.com](https://skinnyties.com)) which is designed to be fully responsive across all devices, laptops, & desktops. This is Pete's preferred way of building sites because it'll remain adaptive for any device now or in the future.
 
