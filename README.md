@@ -2,7 +2,7 @@
 # Mobile Web Specialist Nanodegree
 This site contains my code notes and project submissions for the 6-month Udacity [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google.
 
-[![Code Notes Homepage](docs/assets/images/fixed/MWS-Nanodegree-cert.png)](docs/assets/images/fixed/MWS-Nanodegree-cert.png)
+[![Code Notes Homepage](docs/assets/images/fixed/MWS-Nanodegree-cert.png)](docs/assets/images/fixed/MWS-Nanodegree-Cert-RL.png)
 
 ## Course Notes
 These notes contain lesson transcripts along with screenshots, sample code, & links.
